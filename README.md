@@ -1,6 +1,6 @@
 # 🛡️ DDoS Detection & Rate Limiting System (Python)
 
-A lightweight Python script that simulates basic protection against DDoS attacks by detecting IP addresses making excessive requests in a short time.
+A lightweight Python script that simulates protection against DDoS attacks by detecting IP addresses making excessive requests in a short time.
 
 ## 📌 Features
 - Detects IPs exceeding request thresholds
